@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="MengGe&#39;s_Game_UI_Icons_16x9" src="https://github.com/user-attachments/assets/95f35220-0875-4e7f-a7e0-88e31b012b87" />
+<img width="3840" height="2160" alt="MengGe&#39;s_Game_UI_Icons_16x9" src="https://github.com/user-attachments/assets/1abbf1c2-d707-4eed-8168-9ec74886cd21" />
 
 # MengGe's Game UI Icons
 
