@@ -26,6 +26,10 @@ Some icons were modified based on [Kenney](https://x.com/KenneyNL)’s [Input Pr
 
 This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en). If you wish to use these icons in your own project, please follow the terms of this license.
 
+### Hope you enjoy using it!
+
+### ( •̀ ω •́ )✧
+
 ---
 
 # 萌哥的游戏UI图标
@@ -54,6 +58,10 @@ This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licens
 
 本项目使用了 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans) 许可证，如果你要用于自己的项目，请遵循该许可证规则。
 
+### 祝你用的开心!
+
+### ( •̀ ω •́ )✧
+
 ---
 
 # Previews
@@ -69,4 +77,3 @@ This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licens
 <img width="3840" height="2160" alt="PlayStation_Series_Icons_zh-cn" src="https://github.com/user-attachments/assets/ed75e46b-f653-4965-a77b-41b01a68f86d" />
 <img width="3840" height="2160" alt="NintendoSwitch1 2_Icons_zh-cn" src="https://github.com/user-attachments/assets/399e0d6f-e517-4a77-ae19-0e5ff1490da1" />
 <img width="3840" height="2160" alt="Steam_Hardware_Icons_zh-cn" src="https://github.com/user-attachments/assets/e5dd6b78-4e4d-4b43-8421-4aaf3c1990eb" />
-
