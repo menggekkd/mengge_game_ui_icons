@@ -20,7 +20,7 @@ The current set includes icons for PC/macOS, Xbox, PlayStation, Nintendo Switch 
 
 ## Additional Info
 
-Some icons were modified based on [Kenney](https://x.com/KenneyNL)’s [Input Prompts](https://kenney.nl/assets/input-prompts)(actually used as a reference and redrawn). The font used in the icons is [MiSans](https://hyperos.mi.com/font/).
+Some icons were ~~modified~~ based on [Kenney](https://x.com/KenneyNL)’s [Input Prompts](https://kenney.nl/assets/input-prompts)(actually used as a reference and redrawn). The font used in the icons is [MiSans](https://hyperos.mi.com/font/).
 
 ## License
 
@@ -52,7 +52,7 @@ This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licens
 
 ## 附加内容
 
-部分图标根据 [Kenney](https://x.com/KenneyNL) 制作的 [Input Prompts](https://kenney.nl/assets/input-prompts) 进行更改（实际上是作为参考并重绘），图标使用的字体使用的是 [MiSans](https://hyperos.mi.com/font/)。
+部分图标根据 [Kenney](https://x.com/KenneyNL) 制作的 [Input Prompts](https://kenney.nl/assets/input-prompts) 进行~~更改~~（实际上是作为参考并重绘），图标使用的字体使用的是 [MiSans](https://hyperos.mi.com/font/)。
 
 ## 许可证
 
