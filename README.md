@@ -4,31 +4,30 @@
 
 I’ve created a set of game-ready button UI icons — hope you’ll like them! (*≧ω≦)
 
-You can now download them for free!
+You can now download them for free! If you plan to use it in Unreal Engine (version 5.7), you can obtain it on [Fab](https://fab.com/s/1e2cbe97f96d).
+
+### Download URL
+- **GitHub:** https://github.com/menggekkd/mengge_game_ui_icons/releases/
+- **Fab:** https://fab.com/s/1e2cbe97f96d
+- **Gumroad:** https://menggekkd.gumroad.com/l/mengge_game_ui_icons
 
 ## Features
-
 -  Minimal, line-free style
-
 - Semi-transparent highlights to emphasize key elements
-
 - Colors used: #EEEEEEFF, #EEEEEE4D, #0F0F0FFF (including Alpha)
-
 
 ## Contents
 The current set includes icons for PC/macOS, Xbox, PlayStation, Nintendo Switch 1/2, and Steam hardware.
 
 ## Additional Info
-
 Some icons were reference and redrawn based on [Kenney](https://x.com/KenneyNL)’s [Input Prompts](https://kenney.nl/assets/input-prompts). The font used in the icons is [MiSans](https://hyperos.mi.com/font/).
 
 ## License
-
 This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en). If you wish to use these icons in your own project, please follow the terms of this license.
 
 ### Hope you enjoy using it!
 
-### ( •̀ ω •́ )✧
+### ( •̀ ω •́ )
 
 ---
 
@@ -36,26 +35,25 @@ This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licens
 
 我制作了一些可以用于游戏的按键UI图标，希望你们会喜欢！(*≧ω≦)
 
-现在你可以免费下载他们！
+现在你可以免费下载他们！如果你要用在虚幻引擎（适用于 5.7 版本），你可以在 [Fab](https://fab.com/s/1e2cbe97f96d) 上获取它。
+
+### 下载链接
+- **GitHub：** https://github.com/menggekkd/mengge_game_ui_icons/releases/
+- **Fab：** https://fab.com/s/1e2cbe97f96d
+- **Gumroad：** https://menggekkd.gumroad.com/l/mengge_game_ui_icons
 
 ## 项目特色
-
 - 简洁无线条风格
-  
 - 使用了半透明效果突出部分图标重点
-  
 - 使用的颜色：#EEEEEEFF、#EEEEEE4D、#0F0F0FFF。（包括Alpha）
 
 ## 项目内容
-
 目前图标已包括 PC/macOS、Xbox、PlayStation、Nintendo Switch 1/2、Steam硬件。
 
 ## 附加内容
-
 部分图标根据 [Kenney](https://x.com/KenneyNL) 制作的 [Input Prompts](https://kenney.nl/assets/input-prompts) 作为参考并重绘，图标使用的字体使用的是 [MiSans](https://hyperos.mi.com/font/)。
 
 ## 许可证
-
 本项目使用了 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans) 许可证，如果你要用于自己的项目，请遵循该许可证规则。
 
 ### 祝你用的开心!
